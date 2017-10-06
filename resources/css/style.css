@@ -48,3 +48,9 @@ p {
   background-color: dimgray;
   text-align: left;
 }
+
+.footer-links {
+  color: white;
+  text-decoration: underline;
+  
+}
